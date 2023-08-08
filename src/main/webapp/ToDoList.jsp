@@ -44,6 +44,7 @@
 		}
 		%>
 	</ol>
+<p><%= session.getId() %></p>
 <!--ceci est un commentaire rajouté via GitHub -->
 </body>
 </html>
